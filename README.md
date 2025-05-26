@@ -1,4 +1,4 @@
-# Lab8-Fetch API & ServiceWorkers
+# Lab8 - Fetch API & ServiceWorkers
 ### Team: Xiuwen Zhu & Christina W
 1) Deployed GitHub Pages URL: https://xwinner7.github.io/sp25_cse110_lab8/
 2) How are graceful degradation and service workers related?
